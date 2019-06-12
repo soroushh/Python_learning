@@ -8,3 +8,5 @@ class Person :
 soroush = Person("soroush","khosravi")
 
 print(soroush.full_name())
+
+print(soroush.name)
